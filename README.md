@@ -30,6 +30,9 @@ UIUC Airfoils by [Chaaawa](http://chaaawa.com/airfoils/)
 
 goe63_points = [[1000,3.5],[949.83,15.03],[899.71,25.76],[799.48,45.61],[699.25,65.47],[599.05,83.43],[498.88,97.9899],[398.8,105.65],[298.79,106.21],[198.86,99.87],[148.95,91.8],[99.0999,79.03],[74.2,69.95],[49.34,57.66],[24.55,39.48],[12.2,26.64],[0,0],[12.66,-14.26],[25.15,-13.51],[50.09,-7.73],[75.02,-1.74],[99.9599,3.74],[149.87,11.31],[199.8,17.38],[299.72,24.42],[399.68,28.26],[499.69,27.3],[599.72,24.14],[699.8,17.88],[799.88,10.72],[899.96,3.56],[949.99,0.83]];
 
+Wikipedia
+- [NACA airfoil](https://en.wikipedia.org/wiki/NACA_airfoil)
+
 Information on low Reynolds Number airfoils
 
 - Google Search [UIUC low reynolds number airfoils](https://www.google.com/search?q=uiuc+low+reynolds+number+airfoils)
